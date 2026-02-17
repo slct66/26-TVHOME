@@ -77,3 +77,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #EXTINF:-1 tvg-name="東森新聞台HD",東森新聞台HD
 http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1760217407316
+
+#EXTINF:-1 tvg-name="天映频道",天映频道
+http://php.jdshipin.com/smt.php?id=Celestial
+
+#EXTINF:-1 tvg-name="天映频道",天映频道
+https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial
