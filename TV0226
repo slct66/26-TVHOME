@@ -1,0 +1,79 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Astro AEC" tvg-logo="https://live.fanmingming.cn/tv/Astro AEC.png",Astro AEC
+https://o11.163189.xyz/stream/live/aec/
+
+#EXTINF:-1 tvg-name="Astro AEC",Astro AEC (Alt)
+http://67.220.67.246:2347/livehttpplay?channel_id=20703
+
+#EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://live.fanmingming.cn/tv/Astro AOD.png",Astro AOD
+https://o11.163189.xyz/stream/live/aod/
+
+#EXTINF:-1 tvg-name="Astro AOD",Astro AOD (Alt)
+http://67.220.67.246:2347/livehttpplay?channel_id=20707
+
+#EXTINF:-1 tvg-name="Astro QJ",Astro QJ
+http://67.220.67.246:2347/livehttpplay?channel_id=20704
+
+#EXTINF:-1 tvg-name="ASTRO欢喜台",ASTRO欢喜台
+http://67.220.67.246:2347/livehttpplay?channel_id=20705
+
+#EXTINF:-1 tvg-name="GOODTV好消息" tvg-logo="https://live.fanmingming.cn/tv/GOODTV好消息.png",GOODTV好消息
+http://165.154.226.214:50007/of-litv-ftv16/index.m3u8?proxy=true
+
+#EXTINF:-1 tvg-name="GOOD2" tvg-logo="https://live.fanmingming.cn/tv/GOOD2.png",GOOD2
+http://165.154.226.214:50007/of-litv-ftv17/index.m3u8?proxy=true
+
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://live.fanmingming.cn/tv/天映经典.png",天映经典
+https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
+
+#EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://live.fanmingming.cn/tv/Channel 5.png",Channel 5
+http://cdn6.163189.xyz/163189/ch5
+
+#EXTINF:-1 tvg-name="Channel 8" tvg-logo="https://live.fanmingming.cn/tv/Channel 8.png",Channel 8
+http://cdn6.163189.xyz/163189/ch8
+
+#EXTINF:-1 tvg-name="Channel U" tvg-logo="https://live.fanmingming.cn/tv/Channel U.png",Channel U
+http://cdn6.163189.xyz/163189/chu
+
+#EXTINF:-1 tvg-name="八度空间" tvg-logo="https://live.fanmingming.cn/tv/八度空间.png",八度空间
+http://iptv.4666888.xyz/iptv2A.php?id=52
+
+#EXTINF:-1 tvg-name="愛爾達綜合" tvg-logo="https://live.fanmingming.cn/tv/愛爾達綜合.png",愛爾達綜合
+http://208.87.242.79/livehttpplay?channel_id=16076
+
+#EXTINF:-1 tvg-name="八大第一台" tvg-logo="https://live.fanmingming.cn/tv/八大第一台.png",八大第一台
+http://208.87.242.79/livehttpplay?channel_id=20073
+
+#EXTINF:-1 tvg-name="八大戏剧台" tvg-logo="https://live.fanmingming.cn/tv/八大戏剧台.png",八大戏剧台
+http://208.87.242.79/livehttpplay?channel_id=20071
+
+#EXTINF:-1 tvg-name="八大综合台" tvg-logo="https://live.fanmingming.cn/tv/八大综合台.png",八大综合台
+http://208.87.242.79/livehttpplay?channel_id=20068
+
+#EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://live.fanmingming.cn/tv/TVB翡翠.png",TVB翡翠
+http://iptv.4666888.xyz/iptv2A.php?id=34
+
+#EXTINF:-1 tvg-name="Now爆谷台",Now爆谷台
+http://67.220.67.246:2347/livehttpplay?channel_id=13002
+
+#EXTINF:-1 tvg-name="湖南卫视",湖南卫视
+https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8
+
+#EXTINF:-1 tvg-name="江苏卫视",江苏卫视
+https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8
+
+#EXTINF:-1 tvg-name="浙江卫视",浙江卫视
+http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+
+#EXTINF:-1 tvg-id="TV1.my",RTM TV 1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+
+#EXTINF:-1 tvg-id="TV2.my",RTM TV 2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
+#EXTINF:-1 tvg-id="SukanRTM.my",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#EXTINF:-1 tvg-name="東森新聞台HD",東森新聞台HD
+http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1760217407316
