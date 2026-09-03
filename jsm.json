@@ -1,5 +1,8 @@
 {
 	"spider":"./spider.jar",
+	"lives": [
+    {"name":"anbox","type":0,"url":"https://tv.anbox.dpdns.org/live","playerType":1,"ua":"okhttp/3.8.1","timeout":20,"epg":"https://epg.cdn.loc.cc/?ch={name}&date={date}","logo":"https://logo.wyfc.qzz.io/{name}.png"}
+  ],
 	"sites":[
 		{
 			"key": "豆瓣",
